@@ -24,6 +24,15 @@
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_id-c466f468dbad4892b764f3288d519b21.xml#id-c466f468dbad4892b764f3288d519b21"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-f0d4002ea56149d181664f9962d88484"
+        source="id-2c4a35dc60f349fcb90c944af1ff1e8a"
+        target="id-3e04cbd13a5e4d6b861695088b447c03">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-b6677ede3b6c43a68f8aee72f4cf79b7.xml#id-b6677ede3b6c43a68f8aee72f4cf79b7"/>
+    </sourceConnections>
     <bounds
         x="391"
         y="142"
@@ -34,10 +43,10 @@
         id="id-2f33086426d644bfa36f67e742f6d232"
         targetConnections="id-52f509693c2c4f0194c5bcc0295800cd">
       <bounds
-          x="61"
-          y="132"
-          width="120"
-          height="55"/>
+          x="60"
+          y="120"
+          width="205"
+          height="127"/>
       <archimateElement
           xsi:type="archimate:Goal"
           href="Goal_id-43dc670765514595ac4131186df17201.xml#id-43dc670765514595ac4131186df17201"/>
@@ -47,13 +56,26 @@
         id="id-903a95eb076a40b68c53d9d788d0ff74"
         targetConnections="id-c915c93fe470418faf44ef28e73a8073">
       <bounds
-          x="287"
-          y="150"
-          width="120"
-          height="55"/>
+          x="286"
+          y="120"
+          width="205"
+          height="127"/>
       <archimateElement
           xsi:type="archimate:Goal"
           href="Goal_id-10f818176fe14baa924bb994bf4ac96c.xml#id-10f818176fe14baa924bb994bf4ac96c"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-3e04cbd13a5e4d6b861695088b447c03"
+        targetConnections="id-f0d4002ea56149d181664f9962d88484">
+      <bounds
+          x="515"
+          y="120"
+          width="205"
+          height="127"/>
+      <archimateElement
+          xsi:type="archimate:Goal"
+          href="Goal_id-35d8218c840b44fbac57f0929dc5ab22.xml#id-35d8218c840b44fbac57f0929dc5ab22"/>
     </children>
     <archimateElement
         xsi:type="archimate:Goal"
