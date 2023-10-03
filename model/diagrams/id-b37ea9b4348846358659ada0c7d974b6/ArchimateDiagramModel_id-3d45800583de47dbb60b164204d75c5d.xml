@@ -8,11 +8,33 @@
       id="id-0193a7f9282a4c7da59a2822cd7ac9bc"
       textAlignment="1"
       type="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-48adda789abd4f26a70450d6912282a9"
+        source="id-0193a7f9282a4c7da59a2822cd7ac9bc"
+        target="id-1ee7b97b32ea4edc8be60e3a9483fe01">
+      <archimateRelationship
+          xsi:type="archimate:AggregationRelationship"
+          href="AggregationRelationship_id-53bb73fdf9ef4729b44e5010d4c6370e.xml#id-53bb73fdf9ef4729b44e5010d4c6370e"/>
+    </sourceConnections>
     <bounds
         x="120"
         y="48"
         width="685"
         height="313"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-1ee7b97b32ea4edc8be60e3a9483fe01"
+        targetConnections="id-48adda789abd4f26a70450d6912282a9">
+      <bounds
+          x="144"
+          y="120"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessFunction"
+          href="BusinessFunction_id-053b0746a1f64ee6a707e5666c0f18f1.xml#id-053b0746a1f64ee6a707e5666c0f18f1"/>
+    </children>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-9a09b111824545e4bb953d0767bd5696.xml#id-9a09b111824545e4bb953d0767bd5696"/>
@@ -38,7 +60,7 @@
       type="1">
     <bounds
         x="120"
-        y="720"
+        y="744"
         width="685"
         height="313"/>
     <archimateElement
