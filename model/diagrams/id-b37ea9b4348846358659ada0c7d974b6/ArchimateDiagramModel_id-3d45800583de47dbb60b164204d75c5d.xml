@@ -84,7 +84,7 @@
         x="120"
         y="48"
         width="685"
-        height="313"/>
+        height="253"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-1ee7b97b32ea4edc8be60e3a9483fe01"
@@ -227,9 +227,9 @@
     </sourceConnections>
     <bounds
         x="120"
-        y="384"
+        y="324"
         width="685"
-        height="313"/>
+        height="169"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-13b053d519f14ba8ad733a48f3be416c"
@@ -296,11 +296,20 @@
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_id-4ac0d63fa2a74d57a44a2656dfe8becc.xml#id-4ac0d63fa2a74d57a44a2656dfe8becc"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-70b6ad09a4914ff5831bb93cde89717e"
+        source="id-561e7d21ce364574b86dfe7f7d2ef82b"
+        target="id-9ba817f11ea54be1b271ac2c0ed9cfce">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-980cca1994dc442895db9220c86e366b.xml#id-980cca1994dc442895db9220c86e366b"/>
+    </sourceConnections>
     <bounds
         x="120"
-        y="744"
+        y="504"
         width="685"
-        height="313"/>
+        height="145"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-460f1778f2ec4c7a8d3904a11428e1e6"
@@ -326,6 +335,19 @@
       <archimateElement
           xsi:type="archimate:BusinessFunction"
           href="BusinessFunction_id-1404e4c7100b4b6395403953f92b7b0e.xml#id-1404e4c7100b4b6395403953f92b7b0e"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-9ba817f11ea54be1b271ac2c0ed9cfce"
+        targetConnections="id-70b6ad09a4914ff5831bb93cde89717e">
+      <bounds
+          x="324"
+          y="48"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessFunction"
+          href="BusinessFunction_id-029fdaae4ffb4ca4a75961f4fbb11e08.xml#id-029fdaae4ffb4ca4a75961f4fbb11e08"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
