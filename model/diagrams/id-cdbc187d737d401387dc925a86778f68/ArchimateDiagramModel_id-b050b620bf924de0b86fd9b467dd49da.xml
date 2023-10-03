@@ -603,9 +603,9 @@
       targetConnections="id-6e13903af45b47669aefd8d5debaa822">
     <bounds
         x="900"
-        y="456"
+        y="479"
         width="120"
-        height="73"/>
+        height="58"/>
     <archimateElement
         xsi:type="archimate:Goal"
         href="Goal_id-26243e68df0c41a9954d73727e1a18e9.xml#id-26243e68df0c41a9954d73727e1a18e9"/>
@@ -706,7 +706,7 @@
       targetConnections="id-426e7ad9e09d494fb60d80c3ba17f1f7">
     <bounds
         x="900"
-        y="540"
+        y="560"
         width="120"
         height="55"/>
     <archimateElement
