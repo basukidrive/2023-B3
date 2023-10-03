@@ -9,12 +9,40 @@
       textAlignment="1"
       type="1">
     <bounds
-        x="168"
-        y="252"
-        width="313"
-        height="387"/>
+        x="120"
+        y="48"
+        width="685"
+        height="313"/>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-9a09b111824545e4bb953d0767bd5696.xml#id-9a09b111824545e4bb953d0767bd5696"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-5c322d7eabc44c7e9d554cfa7636db5e"
+      textAlignment="1"
+      type="1">
+    <bounds
+        x="120"
+        y="384"
+        width="685"
+        height="313"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-3dd7063b34194a1f8f9b2eddaafc259b.xml#id-3dd7063b34194a1f8f9b2eddaafc259b"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-561e7d21ce364574b86dfe7f7d2ef82b"
+      textAlignment="1"
+      type="1">
+    <bounds
+        x="120"
+        y="720"
+        width="685"
+        height="313"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-e0000d085a5c46b58890f21d898d9a7a.xml#id-e0000d085a5c46b58890f21d898d9a7a"/>
   </children>
 </archimate:ArchimateDiagramModel>
