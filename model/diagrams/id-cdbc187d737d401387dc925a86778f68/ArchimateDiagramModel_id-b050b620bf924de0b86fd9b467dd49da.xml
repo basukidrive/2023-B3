@@ -642,18 +642,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-1261699cfc0c40eba71f14e81a9ddc3c">
-    <bounds
-        x="1360"
-        y="509"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Goal"
-        href="Goal_id-06cc6f8b18174db3ae51badedb0f493b.xml#id-06cc6f8b18174db3ae51badedb0f493b"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-dad3e44fdcd84429b9dc54f1d5535c25"
       targetConnections="id-893f82a8df1f482b9b5d3b52b20d525f">
     <bounds
