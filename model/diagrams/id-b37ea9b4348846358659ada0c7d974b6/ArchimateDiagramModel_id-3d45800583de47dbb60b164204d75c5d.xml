@@ -1,4 +1,20 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="4 Katalog Proses Bisnis"
-    id="id-3d45800583de47dbb60b164204d75c5d"/>
+    id="id-3d45800583de47dbb60b164204d75c5d">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-0193a7f9282a4c7da59a2822cd7ac9bc"
+      textAlignment="1"
+      type="1">
+    <bounds
+        x="168"
+        y="252"
+        width="313"
+        height="387"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-9a09b111824545e4bb953d0767bd5696.xml#id-9a09b111824545e4bb953d0767bd5696"/>
+  </children>
+</archimate:ArchimateDiagramModel>
