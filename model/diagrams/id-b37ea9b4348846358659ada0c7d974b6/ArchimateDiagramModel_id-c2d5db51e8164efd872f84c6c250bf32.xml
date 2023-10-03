@@ -1,4 +1,44 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="5 Business Process Cooperation"
-    id="id-c2d5db51e8164efd872f84c6c250bf32"/>
+    id="id-c2d5db51e8164efd872f84c6c250bf32">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-b379b72b8e364f74927432ae7420c9ff"
+      textAlignment="1"
+      textPosition="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-d581b5d0ffb54d2eba240d335e4ccf15"
+        source="id-b379b72b8e364f74927432ae7420c9ff"
+        target="id-78578edfa58b47e9885937a0975c049e">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-6755db64dfdd4e819bd710f7b6f1e3a7.xml#id-6755db64dfdd4e819bd710f7b6f1e3a7"/>
+    </sourceConnections>
+    <bounds
+        x="288"
+        y="264"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_id-5b22071c4a3c439986bcd69fc3594cd2.xml#id-5b22071c4a3c439986bcd69fc3594cd2"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-78578edfa58b47e9885937a0975c049e"
+      targetConnections="id-d581b5d0ffb54d2eba240d335e4ccf15"
+      textAlignment="1"
+      textPosition="1">
+    <bounds
+        x="480"
+        y="255"
+        width="120"
+        height="74"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_id-1101fc71799044c2af0ade32d7c720b8.xml#id-1101fc71799044c2af0ade32d7c720b8"/>
+  </children>
+</archimate:ArchimateDiagramModel>
