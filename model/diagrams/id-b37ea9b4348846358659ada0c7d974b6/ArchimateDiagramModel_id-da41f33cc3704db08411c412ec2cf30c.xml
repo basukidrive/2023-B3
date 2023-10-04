@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Diagram Alir Probis"
+    id="id-da41f33cc3704db08411c412ec2cf30c">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-dbed7ec3e33842f091b3660b490e77e8">
+    <bounds
+        x="672"
+        y="204"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_id-0262a754f1f94ca9b418ae5bad42d735.xml#id-0262a754f1f94ca9b418ae5bad42d735"/>
+  </children>
+</archimate:ArchimateDiagramModel>
