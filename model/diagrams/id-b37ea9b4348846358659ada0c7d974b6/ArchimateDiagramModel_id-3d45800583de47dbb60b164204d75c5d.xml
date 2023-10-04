@@ -99,7 +99,7 @@
           fillColor="#93dcff"
           textPosition="1">
         <bounds
-            x="12"
+            x="36"
             y="36"
             width="120"
             height="55"/>
@@ -113,7 +113,7 @@
           textAlignment="1"
           textPosition="1">
         <bounds
-            x="144"
+            x="180"
             y="36"
             width="120"
             height="55"/>
@@ -133,6 +133,20 @@
           y="168"
           width="373"
           height="133"/>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="id-f3b9db2f425646c0b20260b551eda5f5"
+          textAlignment="1"
+          textPosition="1">
+        <bounds
+            x="36"
+            y="48"
+            width="120"
+            height="55"/>
+        <archimateElement
+            xsi:type="archimate:BusinessFunction"
+            href="BusinessFunction_id-1c1357c7317e48d0a96537a1d58447cc.xml#id-1c1357c7317e48d0a96537a1d58447cc"/>
+      </children>
     </children>
   </children>
   <children
@@ -174,6 +188,7 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-ac4ac06d6c544968bcca41e3b144ee78"
           textAlignment="1"
+          fillColor="#93dcff"
           textPosition="1">
         <bounds
             x="12"
