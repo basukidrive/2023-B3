@@ -7,10 +7,34 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-0c69b2eeb2cb4711bb4a614fc267c8a2">
     <bounds
-        x="72"
-        y="96"
-        width="229"
-        height="181"/>
+        x="24"
+        y="132"
+        width="193"
+        height="133"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-6da704304d6d4b1880e530fa44f4e8c6">
+      <bounds
+          x="12"
+          y="36"
+          width="169"
+          height="37"/>
+      <archimateElement
+          xsi:type="archimate:Product"
+          href="Product_id-4222303b76714c90b4aba03f85895233.xml#id-4222303b76714c90b4aba03f85895233"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-d313c637cda14280835571f70afb61c5">
+      <bounds
+          x="12"
+          y="84"
+          width="169"
+          height="37"/>
+      <archimateElement
+          xsi:type="archimate:Product"
+          href="Product_id-3d2bcbd27db84471ad8c38b2fc33c828.xml#id-3d2bcbd27db84471ad8c38b2fc33c828"/>
+    </children>
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-0ae02b57959d40d9903e035ed4e9ecff.xml#id-0ae02b57959d40d9903e035ed4e9ecff"/>
