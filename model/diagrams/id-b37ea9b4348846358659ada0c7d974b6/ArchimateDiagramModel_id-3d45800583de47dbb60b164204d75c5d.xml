@@ -92,6 +92,35 @@
           y="24"
           width="373"
           height="140"/>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="id-6096d4e42cf1430d8b7b1d630e1c67fb"
+          textAlignment="1"
+          fillColor="#93dcff"
+          textPosition="1">
+        <bounds
+            x="12"
+            y="36"
+            width="120"
+            height="55"/>
+        <archimateElement
+            xsi:type="archimate:BusinessFunction"
+            href="BusinessFunction_id-30e8541053964d2f87aa147d262f9bd7.xml#id-30e8541053964d2f87aa147d262f9bd7"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="id-59bc54a18cf246f4857897da295f0265"
+          textAlignment="1"
+          textPosition="1">
+        <bounds
+            x="196"
+            y="45"
+            width="120"
+            height="55"/>
+        <archimateElement
+            xsi:type="archimate:BusinessFunction"
+            href="BusinessFunction_id-24b27e2a71304a41a5ed1f6d8d130c1d.xml#id-24b27e2a71304a41a5ed1f6d8d130c1d"/>
+      </children>
     </children>
     <children
         xsi:type="archimate:DiagramModelGroup"
@@ -133,13 +162,27 @@
           textAlignment="1"
           textPosition="1">
         <bounds
-            x="12"
-            y="24"
+            x="11"
+            y="90"
             width="121"
             height="55"/>
         <archimateElement
             xsi:type="archimate:BusinessFunction"
             href="BusinessFunction_id-d1a6b81e9b314fc9b38f6eb1441bb8fe.xml#id-d1a6b81e9b314fc9b38f6eb1441bb8fe"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="id-ac4ac06d6c544968bcca41e3b144ee78"
+          textAlignment="1"
+          textPosition="1">
+        <bounds
+            x="12"
+            y="24"
+            width="120"
+            height="55"/>
+        <archimateElement
+            xsi:type="archimate:BusinessFunction"
+            href="BusinessFunction_id-eb1c15e3119e4cd7bcf47e54105291d5.xml#id-eb1c15e3119e4cd7bcf47e54105291d5"/>
       </children>
     </children>
     <children
