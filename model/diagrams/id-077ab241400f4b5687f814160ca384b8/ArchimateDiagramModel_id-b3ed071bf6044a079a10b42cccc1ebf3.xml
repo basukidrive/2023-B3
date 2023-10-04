@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="1. Application Portofolio"
+    name="1 Application Portofolio"
     id="id-b3ed071bf6044a079a10b42cccc1ebf3">
   <children
       xsi:type="archimate:DiagramModelGroup"
@@ -374,6 +374,7 @@
           id="id-e9fbc66043fd49f88d908bee98d82e4f"
           targetConnections="id-4044ac9162cc4e4f8231884ff8ce782d"
           textAlignment="1"
+          fillColor="#80ff80"
           textPosition="1">
         <bounds
             x="60"
