@@ -7,7 +7,8 @@
       xsi:type="archimate:DiagramModelGroup"
       id="id-61e5d177de9f450f965733ea7607c154"
       name="Probis Penyusunan Daftar Prioritas Penagihan"
-      textAlignment="1">
+      textAlignment="1"
+      fillColor="#80ffff">
     <bounds
         x="24"
         y="96"
@@ -153,7 +154,8 @@
       xsi:type="archimate:DiagramModelGroup"
       id="id-091aec21a77b456f84a564cd563d0199"
       name="Probis Pemantauan dan Evaluasi Penagihan"
-      textAlignment="1">
+      textAlignment="1"
+      fillColor="#80ff80">
     <bounds
         x="24"
         y="420"
