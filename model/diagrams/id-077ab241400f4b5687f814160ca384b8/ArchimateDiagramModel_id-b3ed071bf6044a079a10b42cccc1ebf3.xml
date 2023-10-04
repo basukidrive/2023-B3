@@ -581,7 +581,8 @@
           height="288"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
-          id="id-c210b1d69f6643048f1538cf5ab4d26f">
+          id="id-c210b1d69f6643048f1538cf5ab4d26f"
+          fillColor="#80ff80">
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-3b9f9ee28a434d5584b1675a5ed1a601"
