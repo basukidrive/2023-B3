@@ -84,7 +84,7 @@
             height="37"/>
         <archimateElement
             xsi:type="archimate:SystemSoftware"
-            href="SystemSoftware_id-eb59b226849548939eac65dedf7268ba.xml#id-eb59b226849548939eac65dedf7268ba"/>
+            href="SystemSoftware_id-726085bc99644a9198f38e6d534642f2.xml#id-726085bc99644a9198f38e6d534642f2"/>
       </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
@@ -95,8 +95,8 @@
             width="133"
             height="37"/>
         <archimateElement
-            xsi:type="archimate:SystemSoftware"
-            href="SystemSoftware_id-6062ffe9ac174672a433491452b5a68b.xml#id-6062ffe9ac174672a433491452b5a68b"/>
+            xsi:type="archimate:Node"
+            href="Node_id-0a9f174110764a35825c11dadb6b9652.xml#id-0a9f174110764a35825c11dadb6b9652"/>
       </children>
       <archimateElement
           xsi:type="archimate:TechnologyFunction"
@@ -317,8 +317,8 @@
           width="121"
           height="49"/>
       <archimateElement
-          xsi:type="archimate:SystemSoftware"
-          href="SystemSoftware_id-c25ab46d81d940ab936fba0b5553fa6d.xml#id-c25ab46d81d940ab936fba0b5553fa6d"/>
+          xsi:type="archimate:Node"
+          href="Node_id-4ee3dc4e6bce4d0fb56f19ad035831c5.xml#id-4ee3dc4e6bce4d0fb56f19ad035831c5"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -360,8 +360,8 @@
           href="SystemSoftware_id-c2870fd33b384942b427ad3dc2fcd33d.xml#id-c2870fd33b384942b427ad3dc2fcd33d"/>
     </children>
     <archimateElement
-        xsi:type="archimate:TechnologyFunction"
-        href="TechnologyFunction_id-7ad878b3dde94c11b9f6fbdf7913fb89.xml#id-7ad878b3dde94c11b9f6fbdf7913fb89"/>
+        xsi:type="archimate:Node"
+        href="Node_id-641948403e88417b873c1a1168f9ab8a.xml#id-641948403e88417b873c1a1168f9ab8a"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
