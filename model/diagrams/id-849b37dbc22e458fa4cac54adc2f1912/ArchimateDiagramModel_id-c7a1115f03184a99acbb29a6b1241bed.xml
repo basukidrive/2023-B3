@@ -112,7 +112,7 @@
     <bounds
         x="48"
         y="168"
-        width="277"
+        width="289"
         height="241"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -226,16 +226,16 @@
     <bounds
         x="348"
         y="168"
-        width="277"
-        height="133"/>
+        width="373"
+        height="241"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-b212c7a9d5954bc98dc2475153d7ef86"
         targetConnections="id-4d1d82ff55e7409cb02a7f68be770b4f">
       <bounds
-          x="36"
-          y="36"
-          width="145"
+          x="96"
+          y="60"
+          width="181"
           height="37"/>
       <archimateElement
           xsi:type="archimate:SystemSoftware"
@@ -246,9 +246,9 @@
         id="id-e30215199c104bfeb6161bd41b86f2d5"
         targetConnections="id-77e469221e57424db2c77625d202ae33">
       <bounds
-          x="36"
-          y="84"
-          width="145"
+          x="96"
+          y="108"
+          width="181"
           height="37"/>
       <archimateElement
           xsi:type="archimate:SystemSoftware"
