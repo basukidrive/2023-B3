@@ -9,8 +9,8 @@
       name="Dashboard  Penagihan"
       textAlignment="1">
     <bounds
-        x="241"
-        y="161"
+        x="216"
+        y="480"
         width="924"
         height="416"/>
     <children
@@ -157,7 +157,7 @@
     <children
         xsi:type="archimate:DiagramModelGroup"
         id="id-f061577088a2434089945e2e2ea9c291"
-        name="Profile Risiko"
+        name="Riwayat Penagihan"
         textAlignment="1">
       <bounds
           x="480"
@@ -166,22 +166,10 @@
           height="109"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
-          id="id-d2d346236b0b4bf192fa08635b281c92">
-        <bounds
-            x="12"
-            y="36"
-            width="120"
-            height="55"/>
-        <archimateElement
-            xsi:type="archimate:DataObject"
-            href="DataObject_id-d5578897d53c4d7a9a2f40136ff17d7d.xml#id-d5578897d53c4d7a9a2f40136ff17d7d"/>
-      </children>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
           id="id-e2881747028c4fd1b3950337a29114ef"
           fillColor="#ffff80">
         <bounds
-            x="144"
+            x="12"
             y="36"
             width="120"
             height="55"/>
@@ -194,7 +182,7 @@
           id="id-4e2b81f6133945468a23dedd1e3c994b"
           fillColor="#ffff80">
         <bounds
-            x="276"
+            x="144"
             y="36"
             width="120"
             height="55"/>
@@ -206,7 +194,7 @@
     <children
         xsi:type="archimate:DiagramModelGroup"
         id="id-95ba513c215e489f849c2ce12211407e"
-        name="Riwayat Penagihan"
+        name="Pelaksanaan Penagihan"
         textAlignment="1">
       <bounds
           x="480"
@@ -295,6 +283,206 @@
         <archimateElement
             xsi:type="archimate:DataObject"
             href="DataObject_id-1d368377de6c401e903ec0201786aff9.xml#id-1d368377de6c401e903ec0201786aff9"/>
+      </children>
+    </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-dc1ceef917f94d2c964499d9acde9d8e"
+      name="DSPC"
+      textAlignment="1">
+    <bounds
+        x="216"
+        y="48"
+        width="924"
+        height="416"/>
+    <children
+        xsi:type="archimate:DiagramModelGroup"
+        id="id-1cdc91b140b74389a513a4926d4d9a29"
+        name="Master File WP"
+        textAlignment="1">
+      <bounds
+          x="36"
+          y="36"
+          width="409"
+          height="109"/>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="id-ed6da5584d6e4fe29b48fa4e78007f52">
+        <bounds
+            x="12"
+            y="36"
+            width="120"
+            height="55"/>
+        <archimateElement
+            xsi:type="archimate:DataObject"
+            href="DataObject_id-cbee83b40d0e4da9a24269398a2ca5d7.xml#id-cbee83b40d0e4da9a24269398a2ca5d7"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="id-a5515a6b14e440c6aad549e66a1e395c">
+        <bounds
+            x="144"
+            y="36"
+            width="120"
+            height="55"/>
+        <archimateElement
+            xsi:type="archimate:DataObject"
+            href="DataObject_id-1e93cae7c7634237b2cf95f4251fb0de.xml#id-1e93cae7c7634237b2cf95f4251fb0de"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="id-6e09f637014c48fdb05af1df6a5fcce2">
+        <bounds
+            x="276"
+            y="36"
+            width="120"
+            height="55"/>
+        <archimateElement
+            xsi:type="archimate:DataObject"
+            href="DataObject_id-2c8f2a8d212f45a89811f8e927dd8a5e.xml#id-2c8f2a8d212f45a89811f8e927dd8a5e"/>
+      </children>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelGroup"
+        id="id-d3a57658ff6d422ba8cb566e4f2edbd8"
+        name="Referensi"
+        textAlignment="1">
+      <bounds
+          x="36"
+          y="168"
+          width="409"
+          height="109"/>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="id-30ced8552baf46f7a3d06a51ee4fa3c1">
+        <bounds
+            x="12"
+            y="36"
+            width="120"
+            height="55"/>
+        <archimateElement
+            xsi:type="archimate:DataObject"
+            href="DataObject_id-1a02de523563476394cd56f73e983333.xml#id-1a02de523563476394cd56f73e983333"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="id-cab582964fcd45f08dc68590a6984763">
+        <bounds
+            x="144"
+            y="36"
+            width="120"
+            height="55"/>
+        <archimateElement
+            xsi:type="archimate:DataObject"
+            href="DataObject_id-1bd0c7afa6fb44d387040e48f203d8ac.xml#id-1bd0c7afa6fb44d387040e48f203d8ac"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="id-6d03f4d972e94f18a7671bf53f5cbb59">
+        <bounds
+            x="276"
+            y="36"
+            width="120"
+            height="55"/>
+        <archimateElement
+            xsi:type="archimate:DataObject"
+            href="DataObject_id-a1e412d734b24bbf9a3818b77dac6af1.xml#id-a1e412d734b24bbf9a3818b77dac6af1"/>
+      </children>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelGroup"
+        id="id-108b2c2bfe38459aa47a5cbd5eb216d1"
+        name="Profile Risiko"
+        textAlignment="1">
+      <bounds
+          x="480"
+          y="36"
+          width="409"
+          height="109"/>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="id-7ed777b74c6248719e50f29d666c3366">
+        <bounds
+            x="12"
+            y="36"
+            width="120"
+            height="55"/>
+        <archimateElement
+            xsi:type="archimate:DataObject"
+            href="DataObject_id-7401bacb7cc64e88a96921de26a1d1cf.xml#id-7401bacb7cc64e88a96921de26a1d1cf"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="id-aa21f5d36a664732b0f0cae61a266ae2">
+        <bounds
+            x="144"
+            y="36"
+            width="120"
+            height="55"/>
+        <archimateElement
+            xsi:type="archimate:DataObject"
+            href="DataObject_id-354fe168771e45d9812c4213eccf1c31.xml#id-354fe168771e45d9812c4213eccf1c31"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="id-ba7eb0a81cef4206a2342b2cd624d53c">
+        <bounds
+            x="276"
+            y="36"
+            width="120"
+            height="55"/>
+        <archimateElement
+            xsi:type="archimate:DataObject"
+            href="DataObject_id-d709ba53dbdb4def98c785afbb5bd061.xml#id-d709ba53dbdb4def98c785afbb5bd061"/>
+      </children>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelGroup"
+        id="id-80f3e5db948642228ab1affc00850858"
+        name="Daftar Sasaran"
+        textAlignment="1">
+      <bounds
+          x="480"
+          y="168"
+          width="409"
+          height="109"/>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="id-be7c93c823d142d9a7bb7b7af52cc8c5">
+        <bounds
+            x="12"
+            y="36"
+            width="120"
+            height="55"/>
+        <archimateElement
+            xsi:type="archimate:DataObject"
+            href="DataObject_id-2854226b7250401f8461cd32ae254549.xml#id-2854226b7250401f8461cd32ae254549"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="id-0aa569f12d474e14b3259f9ff13b9fcb">
+        <bounds
+            x="144"
+            y="36"
+            width="120"
+            height="55"/>
+        <archimateElement
+            xsi:type="archimate:DataObject"
+            href="DataObject_id-a2fc505e8a54440e9ebc28f6baade575.xml#id-a2fc505e8a54440e9ebc28f6baade575"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="id-8f3cb6d198fd4255bf91141eb3be32eb"
+          fillColor="#ffff80">
+        <bounds
+            x="276"
+            y="36"
+            width="120"
+            height="55"/>
+        <archimateElement
+            xsi:type="archimate:DataObject"
+            href="DataObject_id-7407b8ec60d241efbf918d07393d4fa8.xml#id-7407b8ec60d241efbf918d07393d4fa8"/>
       </children>
     </children>
   </children>
