@@ -94,6 +94,18 @@
             xsi:type="archimate:DataObject"
             href="DataObject_id-58ba0ba2e15441e7ab2ea15bf9e193df.xml#id-58ba0ba2e15441e7ab2ea15bf9e193df"/>
       </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="id-363ebda3675749b4a9c7fd2c71c259b7">
+        <bounds
+            x="276"
+            y="36"
+            width="120"
+            height="55"/>
+        <archimateElement
+            xsi:type="archimate:DataObject"
+            href="DataObject_id-e05acd27467349f2949ee297496b3422.xml#id-e05acd27467349f2949ee297496b3422"/>
+      </children>
     </children>
     <children
         xsi:type="archimate:DiagramModelGroup"
@@ -166,7 +178,8 @@
       </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
-          id="id-e2881747028c4fd1b3950337a29114ef">
+          id="id-e2881747028c4fd1b3950337a29114ef"
+          fillColor="#ffff80">
         <bounds
             x="144"
             y="36"
@@ -178,7 +191,8 @@
       </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
-          id="id-107a01b6e4474684a00a6e7e6b37a885">
+          id="id-4e2b81f6133945468a23dedd1e3c994b"
+          fillColor="#ffff80">
         <bounds
             x="276"
             y="36"
@@ -186,13 +200,13 @@
             height="55"/>
         <archimateElement
             xsi:type="archimate:DataObject"
-            href="DataObject_id-e5c2af90346a4f8098ca87524ad87b3d.xml#id-e5c2af90346a4f8098ca87524ad87b3d"/>
+            href="DataObject_id-0555d45d28c74492b4332877d8fd0505.xml#id-0555d45d28c74492b4332877d8fd0505"/>
       </children>
     </children>
     <children
         xsi:type="archimate:DiagramModelGroup"
         id="id-95ba513c215e489f849c2ce12211407e"
-        name="Penerimaan"
+        name="Riwayat Penagihan"
         textAlignment="1">
       <bounds
           x="480"
@@ -223,11 +237,23 @@
             xsi:type="archimate:DataObject"
             href="DataObject_id-1e358dcb0ced4a6e9743d761d4ca4d7e.xml#id-1e358dcb0ced4a6e9743d761d4ca4d7e"/>
       </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="id-85d97d5930944944bb0f42a7fc5e476e">
+        <bounds
+            x="276"
+            y="36"
+            width="120"
+            height="55"/>
+        <archimateElement
+            xsi:type="archimate:DataObject"
+            href="DataObject_id-164f637e882b499da0dc7730ae436a1c.xml#id-164f637e882b499da0dc7730ae436a1c"/>
+      </children>
     </children>
     <children
         xsi:type="archimate:DiagramModelGroup"
         id="id-56cbc349d03840fe92c46c9f5dd6faa9"
-        name="Referensi"
+        name="Riwayat Lelang"
         textAlignment="1">
       <bounds
           x="480"
