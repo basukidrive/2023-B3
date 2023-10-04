@@ -318,6 +318,11 @@
               endY="177"/>
           <bendpoints
               startX="-76"
+              startY="-54"
+              endX="-48"
+              endY="129"/>
+          <bendpoints
+              startX="-76"
               startY="-102"
               endX="-48"
               endY="81"/>
