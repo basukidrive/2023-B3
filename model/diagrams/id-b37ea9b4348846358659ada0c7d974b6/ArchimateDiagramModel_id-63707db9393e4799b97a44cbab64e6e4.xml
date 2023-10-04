@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="5a Business Process Cooperation - Pemantauan &amp; Evaluasi Penagihan"
+    name="5b Business Process Cooperation - Pemantauan &amp; Evaluasi Penagihan"
     id="id-63707db9393e4799b97a44cbab64e6e4">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -28,7 +28,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-736ada2c548a48aabf31c617463927a3"
-      targetConnections="id-bab78cfdc3054d46b5c7ea8012063e6a id-759f638094af4b34b9dc67c5782c9076 id-08b8ba8467c742658622164d1b54f7b6">
+      targetConnections="id-bab78cfdc3054d46b5c7ea8012063e6a id-759f638094af4b34b9dc67c5782c9076 id-08b8ba8467c742658622164d1b54f7b6"
+      fillColor="#80ff80">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-bbf4d8697437465f9e0c6aae5ac96b15"

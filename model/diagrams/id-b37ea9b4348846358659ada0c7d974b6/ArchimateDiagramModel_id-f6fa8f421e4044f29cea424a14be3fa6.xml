@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="5b Business Process Cooperation - Penyusunan Daftar Sasaran Prioritas"
+    name="5a Business Process Cooperation - Penyusunan Daftar Sasaran Prioritas"
     id="id-f6fa8f421e4044f29cea424a14be3fa6">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -28,7 +28,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-d9a8aa970c554e25af68c00aef3f4bd2"
-      targetConnections="id-5e51db12aa754d70b77f31ab0473f75b id-65b050cd9f0c4f8c8538e4b9e9b1ccdd id-cbec394a32f14dd48212d35d3583c464">
+      targetConnections="id-5e51db12aa754d70b77f31ab0473f75b id-65b050cd9f0c4f8c8538e4b9e9b1ccdd id-cbec394a32f14dd48212d35d3583c464"
+      fillColor="#80ffff">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-7b5b21d0e8be4e6fabd105fa13fb22dd"
