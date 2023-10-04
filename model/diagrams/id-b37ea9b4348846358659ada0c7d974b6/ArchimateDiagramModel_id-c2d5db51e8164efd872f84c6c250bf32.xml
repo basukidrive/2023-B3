@@ -10,12 +10,12 @@
       textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-d581b5d0ffb54d2eba240d335e4ccf15"
+        id="id-183d3cea817f4a9f804da83066090201"
         source="id-b379b72b8e364f74927432ae7420c9ff"
         target="id-78578edfa58b47e9885937a0975c049e">
       <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_id-6755db64dfdd4e819bd710f7b6f1e3a7.xml#id-6755db64dfdd4e819bd710f7b6f1e3a7"/>
+          xsi:type="archimate:TriggeringRelationship"
+          href="TriggeringRelationship_id-da673d5627574388b907d9ca3481ede7.xml#id-da673d5627574388b907d9ca3481ede7"/>
     </sourceConnections>
     <bounds
         x="288"
@@ -29,7 +29,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-78578edfa58b47e9885937a0975c049e"
-      targetConnections="id-d581b5d0ffb54d2eba240d335e4ccf15"
+      targetConnections="id-183d3cea817f4a9f804da83066090201"
       textAlignment="1"
       textPosition="1">
     <bounds
