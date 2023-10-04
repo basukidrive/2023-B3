@@ -10,7 +10,7 @@
       textAlignment="1">
     <bounds
         x="216"
-        y="480"
+        y="396"
         width="924"
         height="416"/>
     <children
@@ -295,7 +295,7 @@
         x="216"
         y="48"
         width="924"
-        height="416"/>
+        height="301"/>
     <children
         xsi:type="archimate:DiagramModelGroup"
         id="id-1cdc91b140b74389a513a4926d4d9a29"
@@ -423,18 +423,6 @@
         <archimateElement
             xsi:type="archimate:DataObject"
             href="DataObject_id-354fe168771e45d9812c4213eccf1c31.xml#id-354fe168771e45d9812c4213eccf1c31"/>
-      </children>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
-          id="id-ba7eb0a81cef4206a2342b2cd624d53c">
-        <bounds
-            x="276"
-            y="36"
-            width="120"
-            height="55"/>
-        <archimateElement
-            xsi:type="archimate:DataObject"
-            href="DataObject_id-d709ba53dbdb4def98c785afbb5bd061.xml#id-d709ba53dbdb4def98c785afbb5bd061"/>
       </children>
     </children>
     <children
