@@ -804,9 +804,9 @@
       targetConnections="id-61511fb9dcbb4b8b8e8f1287b09b1546">
     <bounds
         x="456"
-        y="60"
+        y="48"
         width="156"
-        height="55"/>
+        height="73"/>
     <archimateElement
         xsi:type="archimate:Outcome"
         href="Outcome_id-1abb7aa8ad6b48cd98354da5c7b4e71f.xml#id-1abb7aa8ad6b48cd98354da5c7b4e71f"/>
