@@ -344,6 +344,7 @@
       id="id-5cdccfe1256f482a9bd98266103f19f5"
       targetConnections="id-baaf33f072df442587289fafdfb9d9a5 id-db2fc4208f38482a9c96cdba51ad5ebd id-31d16b031ff349dc9fc50eff29a75bc3 id-e5e30e80e5584dd493ed812d0aeca657"
       textAlignment="1"
+      fillColor="#80ffff"
       textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
