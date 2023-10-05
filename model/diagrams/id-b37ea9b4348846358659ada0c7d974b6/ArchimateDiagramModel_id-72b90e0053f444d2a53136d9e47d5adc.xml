@@ -26,17 +26,17 @@
         source="id-b972ad872c474710bb5620d94c6ce705"
         target="id-59373f19de4546a39c27be9ac19f0b6d">
       <bendpoints
-          startX="162"
+          startX="234"
           startY="18"
-          endX="-66"
+          endX="6"
           endY="-269"/>
       <archimateRelationship
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_id-8e9afb9e7bd742fabe7849632a6d64fe.xml#id-8e9afb9e7bd742fabe7849632a6d64fe"/>
     </sourceConnections>
     <bounds
-        x="348"
-        y="48"
+        x="396"
+        y="60"
         width="109"
         height="37"/>
     <archimateElement
@@ -70,7 +70,7 @@
         x="120"
         y="154"
         width="313"
-        height="387"/>
+        height="399"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-25c5359fb0a34a0690e434809a2fdaa6"
