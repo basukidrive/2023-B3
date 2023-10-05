@@ -231,6 +231,7 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-2f9d58e4236241e1adf76fb970fe481a"
           textAlignment="1"
+          fillColor="#80ffff"
           textPosition="1">
         <bounds
             x="36"
