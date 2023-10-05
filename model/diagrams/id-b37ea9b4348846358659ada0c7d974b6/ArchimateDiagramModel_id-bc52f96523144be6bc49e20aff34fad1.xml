@@ -44,7 +44,8 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-aae1df3f90ed4595ab38ea0bf3747fdd"
         targetConnections="id-3383aa91a76e463c81366209a73b9062 id-5bcfacbdd49f42f796c2e24d74080715"
-        fillColor="#80ff80">
+        fillColor="#80ff80"
+        textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-4329936f0353480eb1c0b595e2155a58"
@@ -67,7 +68,8 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-8ceabf1f6fc449e2b6b62b9d4e933ac5"
         targetConnections="id-4329936f0353480eb1c0b595e2155a58 id-8fb12b5fd6c146a980f5626af8648df1"
-        fillColor="#80ff80">
+        fillColor="#80ff80"
+        textPosition="1">
       <bounds
           x="360"
           y="36"
