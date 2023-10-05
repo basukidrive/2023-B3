@@ -12,10 +12,10 @@
         source="id-b972ad872c474710bb5620d94c6ce705"
         target="id-c26eb3b2dc8e42939167fbebeb1f5430">
       <bendpoints
-          startX="-174"
+          startX="-150"
           startY="18"
-          endX="-18"
-          endY="-167"/>
+          endX="-24"
+          endY="-263"/>
       <archimateRelationship
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_id-2b3d9eaa9f414f70bad211b1fa725bc0.xml#id-2b3d9eaa9f414f70bad211b1fa725bc0"/>
@@ -47,8 +47,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-c26eb3b2dc8e42939167fbebeb1f5430"
       targetConnections="id-99d078e1000d44e482dc31166d1d55d4 id-311ab103f9404a4b9e6daf935a60f6ec id-397438c8c3f94e5e9eccb230f998465e id-66a2881221934a27a3502dddbc98e12c"
-      textAlignment="1"
-      type="1">
+      textAlignment="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-06ace2434f8143968778bc1a66604587"
@@ -186,15 +185,14 @@
           href="BusinessActor_id-0c4aa6cc63994a01892365112d30b6ed.xml#id-0c4aa6cc63994a01892365112d30b6ed"/>
     </children>
     <archimateElement
-        xsi:type="archimate:Grouping"
-        href="Grouping_id-9a09b111824545e4bb953d0767bd5696.xml#id-9a09b111824545e4bb953d0767bd5696"/>
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_id-a8efcaa663444bd086b270db829bd13d.xml#id-a8efcaa663444bd086b270db829bd13d"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-59373f19de4546a39c27be9ac19f0b6d"
       targetConnections="id-d72ac4963d724c6d8625a0b16a075991"
-      textAlignment="1"
-      type="1">
+      textAlignment="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-2b11c4da976043948e8b50d68a9de1a7"
@@ -385,7 +383,7 @@
           href="BusinessActor_id-3c7f8f43e13d461bbd187c866a1b702e.xml#id-3c7f8f43e13d461bbd187c866a1b702e"/>
     </children>
     <archimateElement
-        xsi:type="archimate:Grouping"
-        href="Grouping_id-7c2652970d5640649f003dd1b71f3d8a.xml#id-7c2652970d5640649f003dd1b71f3d8a"/>
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_id-70260d18afd5494f98f5646685c5607d.xml#id-70260d18afd5494f98f5646685c5607d"/>
   </children>
 </archimate:ArchimateDiagramModel>
