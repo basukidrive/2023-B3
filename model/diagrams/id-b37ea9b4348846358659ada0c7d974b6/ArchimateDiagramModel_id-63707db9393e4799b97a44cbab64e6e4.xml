@@ -29,7 +29,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-736ada2c548a48aabf31c617463927a3"
       targetConnections="id-859759d20fcb42249fe0fe291189de22 id-ea6f456323d34649a48f98e65d2d8eff id-df9b1914757349f0b721ed85b1e7f4b6"
-      fillColor="#80ff80">
+      fillColor="#80ffff">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-bbf4d8697437465f9e0c6aae5ac96b15"
