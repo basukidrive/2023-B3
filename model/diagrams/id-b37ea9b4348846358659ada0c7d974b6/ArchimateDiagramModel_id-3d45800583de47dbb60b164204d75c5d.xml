@@ -6,7 +6,7 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-61e5d177de9f450f965733ea7607c154"
-      name="Probis Penyusunan Daftar Prioritas Penagihan"
+      name="Penagihan"
       textAlignment="1"
       fillColor="#80ffff">
     <bounds
@@ -81,6 +81,20 @@
             xsi:type="archimate:BusinessFunction"
             href="BusinessFunction_id-ebbb44442e06479d9da9a403b6fcf0fe.xml#id-ebbb44442e06479d9da9a403b6fcf0fe"/>
       </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="id-f5b12666a30b4ad994ebb2d577231155"
+          textAlignment="1"
+          textPosition="1">
+        <bounds
+            x="156"
+            y="102"
+            width="120"
+            height="55"/>
+        <archimateElement
+            xsi:type="archimate:BusinessFunction"
+            href="BusinessFunction_id-7849f353537b49049bd2775cdc6b001d.xml#id-7849f353537b49049bd2775cdc6b001d"/>
+      </children>
     </children>
     <children
         xsi:type="archimate:DiagramModelGroup"
@@ -153,7 +167,7 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-091aec21a77b456f84a564cd563d0199"
-      name="Probis Pemantauan dan Evaluasi Penagihan"
+      name="Manajemen Data"
       textAlignment="1"
       fillColor="#80ffff">
     <bounds
