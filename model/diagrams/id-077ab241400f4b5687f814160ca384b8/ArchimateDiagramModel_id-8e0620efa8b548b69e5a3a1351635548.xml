@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="2b Application Usage - Penyediaan Informasi Manajerial"
+    name="2b Application Usage - Business Intelligence"
     id="id-8e0620efa8b548b69e5a3a1351635548">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
