@@ -735,6 +735,16 @@
         id="id-2bd7b486813f4463afc628c07ce69752"
         source="id-dad3e44fdcd84429b9dc54f1d5535c25"
         target="id-95d78d8d6ffc467894fa4cf2e030a230">
+      <bendpoints
+          startX="-84"
+          startY="3"
+          endX="-84"
+          endY="200"/>
+      <bendpoints
+          startX="-84"
+          startY="-201"
+          endX="-84"
+          endY="-4"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-47ec155a5c9a4e94be261ba71783ad21.xml#id-47ec155a5c9a4e94be261ba71783ad21"/>
