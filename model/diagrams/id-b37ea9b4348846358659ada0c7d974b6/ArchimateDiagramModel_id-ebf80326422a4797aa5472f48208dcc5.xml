@@ -51,6 +51,7 @@
         id="id-d07fb6f469ff41438221ccd71212fad9"
         targetConnections="id-757a399cf0084e3dababafb3d24c0ceb id-21296d09d4b9440c99c8f7405844d266 id-182eb59026064c68afee71589da01ea2 id-2847e651be6a43ce9c40d2afe279fa4a id-655082b5a42147848dea0a01ea44cd00 id-370012746037476d8845dae072a6ddea"
         textAlignment="1"
+        fillColor="#80ffff"
         textPosition="1">
       <bounds
           x="24"
