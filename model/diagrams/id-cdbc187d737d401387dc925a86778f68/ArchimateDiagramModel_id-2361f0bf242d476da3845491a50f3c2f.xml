@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="3 Prinsip"
+    name="2 Prinsip"
     id="id-2361f0bf242d476da3845491a50f3c2f">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -38,7 +38,7 @@
         x="48"
         y="192"
         width="205"
-        height="241"/>
+        height="325"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-c3c4ef933eaa4c17a6464bd218c93ba9"
@@ -119,7 +119,7 @@
         x="288"
         y="192"
         width="205"
-        height="241"/>
+        height="325"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-80348ae30be34182aa024ed50beaae27"

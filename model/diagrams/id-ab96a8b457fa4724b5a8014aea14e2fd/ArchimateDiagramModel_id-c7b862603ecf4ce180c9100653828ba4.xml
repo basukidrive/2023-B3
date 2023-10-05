@@ -16,7 +16,7 @@
     <children
         xsi:type="archimate:DiagramModelGroup"
         id="id-031bce5c3d8444259bee23a1aa407cc8"
-        name="Data terkait DSPC"
+        name="Layanan Penyusunan Daftar Prioritas Penagihan"
         textAlignment="1">
       <bounds
           x="36"
@@ -64,7 +64,7 @@
     <children
         xsi:type="archimate:DiagramModelGroup"
         id="id-ffb9f8da4dcc4654b34957f879b6733a"
-        name="Pelaksanaan terkait Pelaksanaan Penagihan"
+        name="Layanan Pemantauan dan Evaluasi Penagihan"
         textAlignment="1">
       <bounds
           x="480"
