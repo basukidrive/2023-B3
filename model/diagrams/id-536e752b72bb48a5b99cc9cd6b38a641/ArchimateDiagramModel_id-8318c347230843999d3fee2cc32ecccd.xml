@@ -6,7 +6,7 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-19d2c7bcac1a465fa82e39fe656c683b"
-      name="Dashboard  Penagihan"
+      name="Managerial Dashboard"
       textAlignment="1">
     <bounds
         x="168"
@@ -241,7 +241,7 @@
     <children
         xsi:type="archimate:DiagramModelGroup"
         id="id-034ca12747714d99898795d8fea91bdc"
-        name="Riwayat Lelang"
+        name="Riwayat Penegakan Hukum"
         textAlignment="1">
       <bounds
           x="480"

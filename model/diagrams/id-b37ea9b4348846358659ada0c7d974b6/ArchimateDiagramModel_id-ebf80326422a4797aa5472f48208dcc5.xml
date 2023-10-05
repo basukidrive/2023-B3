@@ -36,6 +36,7 @@
         id="id-de6e2d6961474cd7b2c0507123f28984"
         targetConnections="id-58ea487b7be94c61a916e3feafe986b5 id-936f3fb61a014060b11b7f7af896e652 id-206da3904ec540bc9ebf133efe2e8d45 id-379af2aa2a3d4f61bb832a3a27cee7b0 id-68f8fa0995fa4dc287059ee37a715a8a id-d0f06b0abcdf4658b99589680bab9eca id-2abd7279e7c5491fb21f406de47a0a48 id-b895ccf3087a43cca1f983c0f1935aa2"
         textAlignment="1"
+        fillColor="#80ffff"
         textPosition="1">
       <bounds
           x="24"
