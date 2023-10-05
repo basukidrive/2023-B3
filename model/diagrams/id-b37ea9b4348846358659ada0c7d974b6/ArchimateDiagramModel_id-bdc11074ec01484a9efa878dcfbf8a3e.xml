@@ -69,7 +69,7 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-052e3c8a88bd4c718fb5649bc1fb9c77"
           targetConnections="id-092e31cde36d4b76a8b3448d961b7613"
-          fillColor="#93dcff">
+          fillColor="#80ffff">
         <bounds
             x="324"
             y="36"
@@ -82,7 +82,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-9948e7cdd1914c4ba1e8ce11df5c5e00"
-          targetConnections="id-8c4df86a6b40444daabb1a3f08475b3e">
+          targetConnections="id-8c4df86a6b40444daabb1a3f08475b3e"
+          fillColor="#80ffff">
         <bounds
             x="456"
             y="36"
