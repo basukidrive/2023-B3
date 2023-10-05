@@ -20,7 +20,7 @@
         textAlignment="1"
         textPosition="1">
       <bounds
-          x="276"
+          x="143"
           y="48"
           width="120"
           height="55"/>
@@ -62,7 +62,7 @@
         textAlignment="1"
         textPosition="1">
       <bounds
-          x="144"
+          x="276"
           y="48"
           width="120"
           height="55"/>
@@ -116,7 +116,7 @@
         textAlignment="1"
         textPosition="1">
       <bounds
-          x="288"
+          x="276"
           y="36"
           width="120"
           height="55"/>
@@ -147,7 +147,7 @@
             href="CompositionRelationship_id-5e0797cfad7b493bb78dee05f8edb5e6.xml#id-5e0797cfad7b493bb78dee05f8edb5e6"/>
       </sourceConnections>
       <bounds
-          x="24"
+          x="12"
           y="36"
           width="253"
           height="205"/>
@@ -238,6 +238,20 @@
       <archimateElement
           xsi:type="archimate:BusinessFunction"
           href="BusinessFunction_id-efbb8c6ee6894568af4ac38914a2a410.xml#id-efbb8c6ee6894568af4ac38914a2a410"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-a0fefd866fae450d9b38e34300223e3c"
+        textAlignment="1"
+        textPosition="1">
+      <bounds
+          x="408"
+          y="48"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessFunction"
+          href="BusinessFunction_id-dce9e80a887c4906a5af50d440b171b1.xml#id-dce9e80a887c4906a5af50d440b171b1"/>
     </children>
   </children>
 </archimate:ArchimateDiagramModel>
