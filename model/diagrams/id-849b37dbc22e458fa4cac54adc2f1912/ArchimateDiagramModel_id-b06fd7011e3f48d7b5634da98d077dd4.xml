@@ -322,6 +322,18 @@
         y="12"
         width="685"
         height="61"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-bb2d58f2b14b484597edaa2b2925fb94">
+      <bounds
+          x="204"
+          y="24"
+          width="120"
+          height="25"/>
+      <archimateElement
+          xsi:type="archimate:SystemSoftware"
+          href="SystemSoftware_id-1b0da01caeaf4f51b7d2b1a3471ac31b.xml#id-1b0da01caeaf4f51b7d2b1a3471ac31b"/>
+    </children>
     <archimateElement
         xsi:type="archimate:TechnologyFunction"
         href="TechnologyFunction_id-d51176d24c474fbd9ff36919bde02384.xml#id-d51176d24c474fbd9ff36919bde02384"/>
