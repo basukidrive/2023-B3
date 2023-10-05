@@ -97,7 +97,7 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-6096d4e42cf1430d8b7b1d630e1c67fb"
           textAlignment="1"
-          fillColor="#93dcff"
+          fillColor="#00ff80"
           textPosition="1">
         <bounds
             x="36"
@@ -155,7 +155,7 @@
       id="id-091aec21a77b456f84a564cd563d0199"
       name="Probis Pemantauan dan Evaluasi Penagihan"
       textAlignment="1"
-      fillColor="#80ff80">
+      fillColor="#80ffff">
     <bounds
         x="24"
         y="348"
@@ -201,20 +201,6 @@
             xsi:type="archimate:BusinessFunction"
             href="BusinessFunction_id-eb1c15e3119e4cd7bcf47e54105291d5.xml#id-eb1c15e3119e4cd7bcf47e54105291d5"/>
       </children>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
-          id="id-44c3305fd35242d4916ca1ce6fb44380"
-          textAlignment="1"
-          textPosition="1">
-        <bounds
-            x="12"
-            y="156"
-            width="120"
-            height="55"/>
-        <archimateElement
-            xsi:type="archimate:BusinessFunction"
-            href="BusinessFunction_id-eaf851fa616d48a293b6d9eaad58ff16.xml#id-eaf851fa616d48a293b6d9eaad58ff16"/>
-      </children>
     </children>
     <children
         xsi:type="archimate:DiagramModelGroup"
@@ -231,7 +217,7 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-2f9d58e4236241e1adf76fb970fe481a"
           textAlignment="1"
-          fillColor="#80ffff"
+          fillColor="#00ff80"
           textPosition="1">
         <bounds
             x="36"
