@@ -221,6 +221,7 @@
       id="id-758d9fa4eedb4190b2d6e85fe1acbb71"
       targetConnections="id-a93f5349bb50437abe81a22313b8141d"
       textAlignment="1"
+      fillColor="#80ff80"
       textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
