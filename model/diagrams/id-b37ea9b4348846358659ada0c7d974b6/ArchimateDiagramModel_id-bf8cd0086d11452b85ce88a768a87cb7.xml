@@ -156,6 +156,7 @@
           id="id-f7938b0981bd4b3b8b5683ee85c1d573"
           targetConnections="id-81752f9b4d374ea6a195c901f8fc9f60"
           textAlignment="1"
+          fillColor="#80ff80"
           textPosition="1">
         <bounds
             x="12"
@@ -171,6 +172,7 @@
           id="id-5444a2936866454eb30b6a876898c68f"
           targetConnections="id-68411b52727b4f6ba21b26292c729095"
           textAlignment="1"
+          fillColor="#80ff80"
           textPosition="1">
         <bounds
             x="12"
