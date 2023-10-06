@@ -1,0 +1,32 @@
+<canvas:CanvasModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
+    name="0 Judul"
+    id="id-4ae19a26409f4a40844b7287d9987a30">
+  <children
+      xsi:type="canvas:CanvasModelImage"
+      id="id-5b1c85dff683496c917512172b802ffa"
+      borderColor="#000000"
+      imagePath="images/_7a24MGPwEe6NIZNKo8icxg.jpg">
+    <bounds
+        x="24"
+        y="12"
+        width="1189"
+        height="577"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelSticky"
+      id="id-d7fbb25a0ffe4c219da20e987338d72f"
+      font="1|Tw Cen MT Condensed|36.0|1|WINDOWS|1|-60|0|0|0|700|0|0|0|0|3|2|1|34|Tw Cen MT Condensed"
+      fillColor="#ffffff"
+      alpha="200"
+      content="Optimalisasi Proses Penagihan melalui Dukungan CRM dan BI"
+      borderColor="#C0C0C0"
+      textPosition="1">
+    <bounds
+        x="223"
+        y="252"
+        width="791"
+        height="145"/>
+  </children>
+</canvas:CanvasModel>
