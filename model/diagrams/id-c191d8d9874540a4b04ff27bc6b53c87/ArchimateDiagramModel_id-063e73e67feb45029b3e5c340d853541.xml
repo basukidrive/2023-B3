@@ -257,9 +257,9 @@
     </sourceConnections>
     <bounds
         x="227"
-        y="232"
+        y="216"
         width="120"
-        height="55"/>
+        height="85"/>
     <archimateElement
         xsi:type="archimate:Gap"
         href="Gap_id-f1d92d96ef9345dd9107be3db7a4a1a4.xml#id-f1d92d96ef9345dd9107be3db7a4a1a4"/>
